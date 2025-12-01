@@ -1,6 +1,6 @@
 # API de Pedidos - Desafio Técnico
 
-API REST para gerenciamento de pedidos desenvolvida como parte do processo seletivo para a vaga de Analista Júnior.
+API REST para gerenciamento de pedidos 
 
 ## Tecnologias Utilizadas
 
